@@ -1,0 +1,8 @@
+using System;
+using SabaDIContainer;
+
+public class #SCRIPTNAME#
+{
+    #region　変数
+    #endregion
+}
